@@ -1,0 +1,54 @@
+body{
+    color: #13c34f;
+    background-image:url(media/фото.jpg); 
+    background-size: 100%;
+    
+}
+
+.text {
+    width: 100%;
+    background: rgba(0, 0, 0, 0.272);
+}
+
+.texts {
+    margin: 20px;
+}
+
+.one button {
+    width: 100px;
+    height: 50px;
+    border-radius: 10%;
+    background-color: #00000047;
+    color: brown;
+    margin-bottom: 10px;
+    
+}
+
+button {
+    border-radius: 10%;
+    background-color: #00000047;
+    color: brown;
+}
+
+button p {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+/* :active button {
+    background-color: #00000009;
+    color: rgba(30, 23, 134, 0.621); 
+} */
+input {
+    height: 50%;
+    border-radius: 10%;
+    background-color: #00000047;
+    color: #ffffffc4;
+}
+
+select {
+    height: 50%;
+    border-radius: 10%;
+    background-color: #00000047;
+    color: #ffffffc4;
+}
